@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](github.com/JeremiasBarolo)
 
-- 💬 Ask me about **Python CSS and HTML**
+- 💬 Ask me about **Python, TKinter, Django, CSS and HTML**
 
 - 📫 How to reach me **barolojeremias@gmail.com**
 
