@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Scrapping With Selenium**
 
-- 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo]([github.com/JeremiasBarolo](https://github.com/JeremiasBarolo?tab=repositories))
+- 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](github.com/JeremiasBarolo)
 
 - 💬 Ask me about **Python, TKinter, Django, CSS and HTML**
 
