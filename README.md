@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Scrapping With Selenium**
 
-- Visit my resume by clicking [here](https://jeremiasbarolo.github.io/curriculum/)
+- Visit my resume by clicking [here](https://jeremiasbarolo.github.io/Curriculum-Resume/)
 
 - 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](github.com/JeremiasBarolo)
 
