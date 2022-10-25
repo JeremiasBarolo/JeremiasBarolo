@@ -7,7 +7,7 @@
 
 - Visit my resume by clicking [here](https://jeremiasbarolo.github.io/Curriculum-Resume/)
 
-- 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](github.com/JeremiasBarolo)
+- 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](https://github.com/JeremiasBarolo?tab=repositories)
 
 - 💬 Ask me about **Python, TKinter, Django, CSS and HTML**
 
