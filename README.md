@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Recruiter Bot for LinkedIn**
 
-- 🌱 I’m currently learning **Web Scrapping With Selenium**
+- 🌱 I’m currently learning **Data Science in CoderHouse**
 
 - Visit my resume by clicking [here](https://jeremiasbarolo.github.io/Curriculum-Resume/)
 
