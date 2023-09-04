@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jeremias Barolo</h1>
-<h3 align="center">A enthusiastic Web and Python Developer from Argentina</h3>
+<h3 align="center">A enthusiastic Web Developer from Argentina</h3>
 
 - 🔭 I’m currently working on **Angular Web/Desktop App**
 
-- 🌱 I’m currently learning **Angular in xAcademy and Data Science in CoderHouse**
+- 🌱 I’m currently learning **Angular in xAcademy**
 
 - Visit my resume by clicking [here](https://jeremiasbarolo.github.io/Curriculum-Resume/)
 
 - 👨‍💻 All of my projects are available at [github.com/JeremiasBarolo](https://github.com/JeremiasBarolo?tab=repositories)
 
-- 💬 Ask me about **Web Development and Data Science**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **barolojeremias@gmail.com**
 
